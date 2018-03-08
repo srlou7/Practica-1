@@ -1,0 +1,5 @@
+V=[0,1,2,34,6,2]
+l=len(v)
+for i in range (l):
+  if v[i]<5:
+    print v[i]
